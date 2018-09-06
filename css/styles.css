@@ -1,0 +1,13 @@
+.nature {
+  float:middle;
+}
+.wedding {
+  float:right;
+}
+.portrait {
+  float:left
+}
+img {
+  width:200px;
+  height:400px;
+}
